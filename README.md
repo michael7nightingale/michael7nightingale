@@ -1,40 +1,86 @@
-# Михаил Соловьев
 
-
+​
+3
+​
+4
 ### Добро пожаловать в мой гит! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+5
 Здесь вы можете познакомиться со мной и моими проектами.
-
+6
+​
+7
 - 🔭 &nbsp;I’m currently working on something cool :wink:
+8
 - 🌱 &nbsp;I’m currently learning Flutter, Go
+9
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+10
 - 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+11
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
-
+12
+​
+13
 📕 &nbsp;**Latest Blog Posts**
+14
 <!-- BLOG-POST-LIST:START -->
+15
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+16
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
+17
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+18
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+19
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+20
 <!-- BLOG-POST-LIST:END -->
-
+21
+​
+22
 🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+23
+- телеграмм @michael7nightingale;
+- ВК https://vk.com/komissarr1937
 
+29
+​
+30
 📊 &nbsp;**This week I spent my time on**
-
+31
+​
+32
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+33
   
+34
 ### ✨&nbsp; About Me
+35
+​
+Я пайтон-разработчик с годовым опытом разработки. В основном мой род деятельности - это веб, парсинг. В любое время готов начать работу над интересным и развивающим для меня проектом. Люблю учиться и осваивать новые технологии
 
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
+&nbsp;**Профессиональные знания**
+ - Python;
+ - ООП;
+ - Django;
+ - bs4, requests, socketы;
+ - десктоп-разработка;
+ - боты;
+ 
+&nbsp;**Базовые знания**
+ - Python;
+ - Flask;
+ - bs4, requests, socketы;
+ - вёрстка сайтов;
 
+
+37
+​
+38
+#### My Opensource Story
+39
+All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 #### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This proof of concept project showcases the ability of any website to track and identify individuals, even when using private browsing or incognito mode in their web browser. With over 5000K users and 1.8K stars, it has garnered attention and discussions in privacy forums and conferences globally. Its impact has led to improvements from privacy-focused browser vendors to counter fingerprinting, and has increased public awareness of the dangers of browser fingerprinting.
