@@ -29,7 +29,7 @@
  - Блог на Django. (https://github.com/michael7nightingale/Blog_for_teacher);
  - Cайт для вычислений на Django. Это моя цель на ближайший год: автоматизировать процесс физико-математических вычислений по формулам. Собственно идея автоматизации процесса представлена в коде. (https://github.com/michael7nightingale/super_site);
  - Голосовой помощник для декстопа на PyQt6. (https://github.com/michael7nightingale/assistant);
- - Модуль для разработки ВК-ботов с закосом на бибилиотеки для телеграмма. (https://github.com/michael7nightingale/VKBot);
+ - Модуль для разработки ВК-ботов с закосом на библиотеки для телеграмма. (https://github.com/michael7nightingale/VKBot);
  - прочие мелочи;
 
 
