@@ -19,6 +19,7 @@
  
 &nbsp;**Базовые знания**
  - Python;
+ - SQL;
  - Flask;
  - Анализ и обработка данных (NumPy, Matplotlib, Pandas, Sklearn, SymPy);
  - Вёрстка сайтов (JavaScript, HTML, CSS);
