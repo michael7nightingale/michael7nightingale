@@ -2,7 +2,7 @@
 
 ### Добро пожаловать в мой гит! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Здесь вы можете познакомиться со мной и моими проектами.
+Я Михаил Соловьев. Здесь вы можете познакомиться со мной и моими проектами.
 
 
 ### ✨&nbsp; О себе
