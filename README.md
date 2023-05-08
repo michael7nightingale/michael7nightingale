@@ -35,6 +35,6 @@
 
 
 ### 🔗 &nbsp;**Связь**
-- Телеграмм @michael7nightingale;
+- Телеграмм https://t.me/michael7nightingale;
 - ВК https://vk.com/michael7nightingale;
 - email suslanchikmopl@gmail.com;
