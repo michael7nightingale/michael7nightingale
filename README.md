@@ -38,10 +38,13 @@
 
 
 ### 📕 &nbsp;**Репозитории**
- - Блог на Django. (https://github.com/michael7nightingale/Simple-blog );
  - Cайт для вычислений на Django. Это моя цель на ближайший год: автоматизировать процесс физико-математических вычислений по формулам. Собственно идея автоматизации процесса представлена в коде. (https://github.com/michael7nightingale/Calculations);
+ - Версия сайта для вычислений на FastAPI (https://github.com/michael7nightingale/Calculations-FastAPI);
+ - Тестовое задание в одну компанию - генератор поздравлений с ичпользованием ChatGPT (https://github.com/michael7nightingale/Interview-task-1);
+ - Бот для отслеживания позиций товара на Wildberries c использованием Selenium (https://github.com/michael7nightingale/wildberries-tracking-bot);
  - Голосовой помощник для декстопа на PyQt6. (https://github.com/michael7nightingale/Voice-assistant);
  - Сайт для тренировки памяти (изучал Flask). (https://github.com/michael7nightingale/Memories);
+ - - Блог на Django. (https://github.com/michael7nightingale/Simple-blog );
  - прочие мелочи;
 
 
@@ -49,3 +52,4 @@
 - Телеграмм https://t.me/michael7nightingale;
 - ВК https://vk.com/michael7nightingale;
 - email suslanchikmopl@gmail.com;
+- +7(993)-774-08-34
