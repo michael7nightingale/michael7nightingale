@@ -13,46 +13,49 @@
 
 ### Добро пожаловать в мой гит! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Я Михаил Соловьев. Здесь вы можете познакомиться со мной и моими проектами.
+My name is Michael Nightingale, and here you can watch my projects and practices.
 
 
 ### ✨&nbsp; О себе
 
-Я пайтон-разработчик с годовым опытом. В основном мой род деятельности - это веб, парсинг. Люблю делать что-то хорошее). В любое время готов начать работу над интересным и развивающим для меня проектом. Учусь на физико-математическом профиле. Учусь по книгам и лекциям (и pet-проектам, разумеется). В свободное время люблю покопаться в других языках программирования.
+I'm a Python Junior Developer with a year of practice behind. My main branch of work is `Web-development` on Django, FastAPI and Flask. I love to build something interesting and fast). I study at physics and mathematics Middle-study section. My main sunjects on programming now are backend, algorithms and data-structures, applcation architecture and multi-task programming. I study programming (Python, CS) on books, lectures and pet-projects. Some of them you can see further on my GitHub repositories.
 
-&nbsp;**Профессиональные знания**
+&nbsp;**Professional skills**
  - Python;
- - ООП;
- - Django и DRF;
+ - OOP;
+ - Django, DRF, Redis;
+ - Async, multithreading and multiprocessing programming; 
  - API И RESTful;
  - Flask, FastAPI;
- - bs4, requests, socket, asyncio, pydantic, sqlalchemy;
- - Десктоп-разработка GUI на PyQt6;
+ - bs4, requests, socket, asyncio, pydantic, sqlalchemy, aiohttps, selenium;
+ - Desktop applicatoins with PyQt6;
  - SQL;
 
-&nbsp;**Базовые знания**
- - Боты;
- - Анализ и обработка данных (NumPy, Matplotlib, Pandas, Sklearn, SymPy);
- - Вёрстка сайтов (JavaScript, HTML, CSS);
- - Разумеется, умею читать код на других языках;
+&nbsp;**Basic skills**
+ - Algorithms and data-struictures;
+ - Telegram bots on aiogram and telebot;
+ - Data analisys and mathematics (NumPy, Matplotlib, Pandas, Kearas, SymPy);
+ - Frontend development (JavaScript, HTML, CSS);
+ - Reading other languages code;
 
 
-### 📕 &nbsp;**Репозитории** (наиболее стоящие)
+### 📕 &nbsp;**Projects** (fresh ones)
 
-Сейчас в разработке:
-- Изучаю Django Rest Framework: приложение для изучения английского языка с интеграцией OpenAI (https://github.com/michael7nightingale/English-drf);
-- Изучаю регулярные выражения и структуры данных: собственная библиотека spicy для парсинга HTML и XML документов (https://github.com/michael7nightingale/spicy);
+On development:
+- Learning more deep at Django Rest Framework: RESTful API for `parents app MomsPops`. Working with command and other developers with a large history os commits. (https://github.com/MomsPops/MomsPops-API);
+- Learning more deep at Django Rest Framework: RESTful API for `learning English with OpenAI integration` (https://github.com/michael7nightingale/English-drf);
+- Learning regular expressions and tree-like datastructures on my own XML and HTML parser `Spicy` (https://github.com/michael7nightingale/spicy);
 
-Разработано не так давно:
- - Cайт для вычислений на Django. Это моя цель на ближайший год: автоматизировать процесс физико-математических вычислений по формулам. Собственно идея автоматизации процесса представлена в коде. (https://github.com/michael7nightingale/Calculations-Django-Fullstack);
- - Версия сайта для вычислений на FastAPI (https://github.com/michael7nightingale/Calculations-FastAPI-Fullstack);
- - Тестовое задание в одну компанию - генератор поздравлений с иcпользованием OpenAI (https://github.com/michael7nightingale/Interview-task-1);
- - Бот для отслеживания позиций товара на Wildberries c использованием Selenium (https://github.com/michael7nightingale/wildberries-tracking-bot);
+Developed not so long ago:
+ - Fullstack web-application for physical and mathematical calculations on Django framework. The target was to make formulas calculations and building automatical. (https://github.com/michael7nightingale/Calculations-Django-Fullstack);
+ - Version of web application for physical and mathematical calculations on FastAPI (https://github.com/michael7nightingale/Calculations-FastAPI-Fullstack);
+ - Test-task in a loggisting company. Celebrations generator  with OenAI integration (https://github.com/michael7nightingale/Interview-task-1);
+ - Telegram bot fot goods position in a search tracking on Wildberries using Selenium (https://github.com/michael7nightingale/wildberries-tracking-bot);
 
-Разработано довольно давно:
- - Голосовой помощник для декстопа на PyQt6. (https://github.com/michael7nightingale/Voice-assistant);
- - Сайт для тренировки памяти (изучал Flask). (https://github.com/michael7nightingale/Memories-Flask);
- - Блог на Django. (https://github.com/michael7nightingale/Blog-Django );
+It was lon-long ago when I was little and silly:
+ - Voice assistant on PyQt6. (https://github.com/michael7nightingale/Voice-assistant);
+ -  FullStack web application for memory-training on Flask. (https://github.com/michael7nightingale/Memories-Flask);
+ - Simple blog on Django. (https://github.com/michael7nightingale/Blog-Django );
 
 
 
