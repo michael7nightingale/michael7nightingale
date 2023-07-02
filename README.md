@@ -11,12 +11,12 @@
 
 </div>
 
-### Добро пожаловать в мой гит! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Welcome to my GitHub! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 My name is Michael Nightingale, and here you can watch my projects and practices.
 
 
-### ✨&nbsp; О себе
+### ✨&nbsp; About me
 
 I'm a Python Junior Developer with a year of practice behind. My main branch of work is `Web-development` on Django, FastAPI and Flask. I love to build something interesting and fast). I study at physics and mathematics Middle-study section. My main sunjects on programming now are backend, algorithms and data-structures, applcation architecture and multi-task programming. I study programming (Python, CS) on books, lectures and pet-projects. Some of them you can see further on my GitHub repositories.
 
@@ -47,6 +47,8 @@ On development:
 - Learning regular expressions and tree-like datastructures on my own XML and HTML parser `Spicy` (https://github.com/michael7nightingale/spicy);
 
 Developed not so long ago:
+ - Test task for intern on Fast-API. It seemed to be a simple API, but I did the great views and app-architecture. (https://github.com/michael7nightingale/Test-task-FastAPI);
+ - FastAPI API for calculcations and sciences (https://github.com/michael7nightingale/Calculations-FastAPI-RESTful); 
  - Fullstack web-application for physical and mathematical calculations on Django framework. The target was to make formulas calculations and building automatical. (https://github.com/michael7nightingale/Calculations-Django-Fullstack);
  - Version of web application for physical and mathematical calculations on FastAPI (https://github.com/michael7nightingale/Calculations-FastAPI-Fullstack);
  - Test-task in a loggisting company. Celebrations generator  with OenAI integration (https://github.com/michael7nightingale/Interview-task-1);
@@ -60,7 +62,7 @@ It was lon-long ago when I was little and silly:
 
 
 ### 🔗 &nbsp;**Связь**
-- Телеграмм https://t.me/michael7nightingale;
-- ВК https://vk.com/michael7nightingale;
-- email suslanchikmopl@gmail.com;
+- Telegram: https://t.me/michael7nightingale;
+- VK: https://vk.com/michael7nightingale;
+- email: suslanchikmopl@gmail.com;
 - +7(993)-774-08-34
