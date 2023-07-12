@@ -24,9 +24,10 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
  - Python;
  - OOP;
  - Django, DRF, Redis;
+ - FastAPI;
  - Async, multithreading and multiprocessing programming; 
  - API И RESTful;
- - Flask, FastAPI;
+ - Flask;
  - bs4, requests, socket, asyncio, pydantic, sqlalchemy, aiohttps, selenium;
  - Desktop applicatoins with PyQt6;
  - SQL;
@@ -42,11 +43,12 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
 ### 📕 &nbsp;**Projects** (fresh ones)
 
 On development:
+- FastAPI JWT-authentication library (fastapi_authtools) is already on pypi: https://pypi.org/project/fastapi-authtools/. (https://github.com/michael7nightingale/fastapi_auth);
 - Learning more deep at Django Rest Framework: RESTful API for `parents app MomsPops`. Working with command and other developers with a large history os commits. (https://github.com/MomsPops/MomsPops-API);
-- Learning more deep at Django Rest Framework: RESTful API for `learning English with OpenAI integration` (https://github.com/michael7nightingale/English-drf);
 - Learning regular expressions and tree-like datastructures on my own XML and HTML parser `Spicy` (https://github.com/michael7nightingale/spicy);
 
 Developed not so long ago:
+ - Learning more deep at Django Rest Framework: RESTful API for `learning English with OpenAI integration` (https://github.com/michael7nightingale/English-drf);
  - Test task for intern on Fast-API. It seemed to be a simple API, but I did the great views and app-architecture. (https://github.com/michael7nightingale/Test-task-FastAPI);
  - FastAPI API for calculcations and sciences (https://github.com/michael7nightingale/Calculations-FastAPI-RESTful); 
  - Fullstack web-application for physical and mathematical calculations on Django framework. The target was to make formulas calculations and building automatical. (https://github.com/michael7nightingale/Calculations-Django-Fullstack);
