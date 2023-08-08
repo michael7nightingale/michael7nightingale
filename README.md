@@ -35,7 +35,7 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
 ### 📕 &nbsp;**Projects** (fresh ones)
 
 On development:
-- FastAPI JWT-authentication library (fastapi_authtools) is already on pypi: https://pypi.org/project/fastapi-authtools/. (https://github.com/michael7nightingale/fastapi_auth);
+- FastAPI JWT-authentication library (fastapi_authtools) is already on pypi: https://pypi.org/project/fastapi-authtools/. (https://github.com/michael7nightingale/fastapi_authtools);
 - Learning more deep at Django Rest Framework: RESTful API for `parents app MomsPops`. Working with command and other developers with a large history os commits. (https://github.com/MomsPops/MomsPops-API);
 - Learning regular expressions and tree-like datastructures on my own XML and HTML parser `Spicy` (https://github.com/michael7nightingale/spicy);
 
