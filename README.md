@@ -66,30 +66,79 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
   </td>
    <td>*private commercial project*</td>
 </tr>
-
 </table>
 
 
-Libraries:
-- Learning regular expressions and tree-like datastructures on my own XML and HTML parser `Spicy` (https://github.com/michael7nightingale/spicy);
-- FastAPI JWT-authentication library (fastapi_authtools) is already on pypi: https://pypi.org/project/fastapi-authtools/. (https://github.com/michael7nightingale/fastapi_authtools);
+### 📕 &nbsp;**Libraries**
+<table>
+<tr><th>Name (usage)</th>
+<th>Stack</th>
+<th>Descriptioin</th>
+<th>Repository</th>
+ <th>PyPi</th>
+</tr>
+<tr>
+ <tr>
+  <td>fastapi_authtools</td></td>
+   <td>FastAPI, Starletter, python-jose, pytest</td>
+   <td>
+ FastAPI JWT-authentication library (fastapi_authtools)
+  </td>
+   <td>https://github.com/michael7nightingale/fastapi_authtools</td>
+ <td>https://pypi.org/project/fastapi-authtools/</td>
+</tr>
+  <td>spicy</td>
+   <td>Python, re</td>
+   <td>
+   Learning regular expressions and tree-like datastructures on my own XML and HTML parser
+  </td>
+   <td>https://github.com/michael7nightingale/spicy</td>
+  <td>https://pypi.org/project/spicyy/</td>
+</tr>
+</table>
 
-
-Developed not so long ago:
- - Learning more deep at Django Rest Framework: RESTful API for `learning English with OpenAI integration` (https://github.com/michael7nightingale/English-drf);
- - Test task for intern on Fast-API. It seemed to be a simple API, but I did the great views and app-architecture. (https://github.com/michael7nightingale/Test-task-FastAPI);
- - FastAPI API for calculcations and sciences (https://github.com/michael7nightingale/Calculations-FastAPI-RESTful); 
+### 📕 &nbsp;**Developed not so long ago**
+<table>
+<tr><th>Name (usage)</th>
+<th>Stack</th>
+<th>Descriptioin</th>
+<th>Link</th>
+</tr>
+<tr>
+ <tr>
+  <td>AI English</td></td>
+   <td>Django, DRF, OpenAI, channels, redis.</td>
+   <td>
+ Learning more deep at Django Rest Framework: RESTful API for `learning English with OpenAI integration`
+  </td>
+   <td>https://github.com/michael7nightingale/FastAPI-Science</td>
+</tr>
+  <td>Document-TTS-Reader-FastAPI</td>
+   <td>FastAPI, MongoDB, gtts</td>
+   <td>
+   There is CRUD for documents with main doc file and covert image uploading. You can get test from current page or document at all. Also, you can request current page TTS audio, which will be your response )).
+  </td>
+   <td>https://github.com/michael7nightingale/Document-TTS-Reader-FastAPI</td>
+</tr>
+ <tr>
+  <td>Birds-Android</td>
+   <td>Python, SimpleUI, Pony ORM</td>
+   <td>
+   This is the Python configuration for Simple UI framework. The business task is to create the process (application) for managing the list of birds, their cards and your own seen list.
+  </td>
+   <td>https://github.com/michael7nightingale/Birds-Android</td>
+</tr>
+</table>
  
 
-
-It was lon-long ago when I was little and silly:
+### 📕 &nbsp;**Developed long ago, when I was small and silly**
 - Fullstack web-application for physical and mathematical calculations on Django framework. The target was to make formulas calculations and building automatical (https://github.com/michael7nightingale/Calculations-Django-Fullstack);
  - Test-task in a loggisting company. Celebrations generator  with OenAI integration (https://github.com/michael7nightingale/Interview-task-1);
  - Telegram bot fot goods position in a search tracking on Wildberries using Selenium (https://github.com/michael7nightingale/wildberries-tracking-bot);
  - Voice assistant on PyQt6. (https://github.com/michael7nightingale/Voice-assistant);
  - FullStack web application for memory-training on Flask. (https://github.com/michael7nightingale/Memories-Flask);
  - Simple blog on Django. (https://github.com/michael7nightingale/Blog-Django );
-
+ - other repositories you can see in the `Repositories` tab;
 
 
 ### 🔗 &nbsp;**Связь**
