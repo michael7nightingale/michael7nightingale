@@ -17,6 +17,8 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
  - `OOP`;
  - `FastAPI`;
  - `Django`, `DRF`;
+ - `Litestar`;
+ - `SQLAlchemy`, `Tortoise ORM`, `Django ORM`, `Piccolo ORM`;
  - `Redis`, `Celery`, `Flower`;
  - `Asyncio`, `multithreading` and `multiprocessing` programming; 
  - `API` and `RESTful`;
@@ -28,6 +30,7 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
 
 &nbsp;**Basic skills (worked with ones a little)**
  - `Vue.js`;
+ - `Pony ORM`;
  - `MongoDB`;
  - Telegram bots on `aiogram` and `telebot`;
  - Data analisys and mathematics (NumPy, Matplotlib, Pandas, Kearas, SymPy);
