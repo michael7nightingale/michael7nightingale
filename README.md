@@ -54,29 +54,37 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
   </td>
    <td>https://github.com/michael7nightingale/FastAPI-Science</td>
 </tr>
- <tr>
-  <td>Sciences</td></td>
-   <td>FastAPI, Celery, Redis, PostgreSQL, asyncpg, Tortoise ORM, Vue.js, numpy, sympy, etc.</td>
+  <tr>
+  <td>Recursive Shop ORM</td></td>
+   <td>Django, DRF, Postgres, raw SQL</td>
    <td>
-  FastAPI fullstack web-app for science calculations (formulat, plots, tasks and forum)
+ E-Commerce DRF recursive ORM handbook
   </td>
-   <td>https://github.com/michael7nightingale/FastAPI-Science</td>
-</tr>
+   <td>https://github.com/michael7nightingale/recursiveDjangoShop</td>
+ </tr>
  <tr>
-  <td>MomsPops</td>
-   <td>Django, DRF, Celery, Redis, PostgreSQL, djangochannelsrestframework</td>
+  <td>Antique Site Parser</td>
+   <td>asyncio, aiohttp, Beautiful Soup</td>
    <td>
-    RESTful API for `parents app MomsPops` (social app for parents). Working with command and other developers with a large history os commits. 
+ Commerical parser of https://antikskupka.ru/.
   </td>
-   <td>https://github.com/MomsPops/MomsPops-API</td>
-</tr>
+   <td>https://github.com/michael7nightingale/Antique-Site-Parser</td>
+ </tr>
+ <tr>
+  <td>ASP.NET Task Tracker</td>
+   <td>C#, .NET, ASP.NET MCV, Entity Framework</td>
+   <td>
+ My first c# MVC application.
+  </td>
+   <td>https://github.com/michael7nightingale/TaskTracker-ASP.NET</td>
+ </tr>
  <tr>
   <td>Aviasales Bot</td>
    <td>aiogram, FastAPI, Celery, Redis, PostgreSQL, flower, aiohttp</td>
    <td>
     Project to search avia-tikcets. The copy and upgrading of closed Aviasales Telegram Bot.
   </td>
-   <td>*private commercial project*</td>
+   <td>https://www.uwings.ru</td>
 </tr>
 </table>
 
@@ -119,29 +127,13 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
  <th>Link</th>
 </tr>
  <tr>
-  <td>Recursive Shop ORM</td></td>
-   <td>Django, DRF, Postgres, raw SQL</td>
+  <td>MomsPops</td>
+   <td>Django, DRF, Celery, Redis, PostgreSQL, djangochannelsrestframework</td>
    <td>
- E-Commerce DRF recursive ORM handbook
+    RESTful API for `parents app MomsPops` (social app for parents). Working with command and other developers with a large history os commits. 
   </td>
-   <td>https://github.com/michael7nightingale/recursiveDjangoShop</td>
- </tr>
- <tr>
-  <td>Antique Site Parser</td>
-   <td>asyncio, aiohttp, Beautiful Soup</td>
-   <td>
- Commerical parser of https://antikskupka.ru/.
-  </td>
-   <td>https://github.com/michael7nightingale/Antique-Site-Parser</td>
- </tr>
- <tr>
-  <td>ASP.NET Task Tracker</td>
-   <td>C#, .NET, ASP.NET MCV, Entity Framework</td>
-   <td>
- Commerical parser of https://antikskupka.ru/.
-  </td>
-   <td>https://github.com/michael7nightingale/Antique-Site-Parser</td>
- </tr>
+   <td>https://github.com/MomsPops/MomsPops-API</td>
+</tr>
 <tr>
   <td>AI English</td></td>
    <td>Django, DRF, OpenAI, channels, redis.</td>
