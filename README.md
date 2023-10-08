@@ -40,12 +40,20 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
 
 ### 📕 &nbsp;**Projects** (fresh ones)
 <table>
-<tr><th>Name (usage)</th>
-<th>Stack</th>
-<th>Descriptioin</th>
-<th>Link</th>
+<tr>
+ <th>Name (usage)</th>
+ <th>Stack</th>
+ <th>Descriptioin</th>
+ <th>Link</th>
 </tr>
 <tr>
+  <td>Sciences</td></td>
+   <td>FastAPI, Celery, Redis, PostgreSQL, asyncpg, Tortoise ORM, Vue.js, numpy, sympy, etc.</td>
+   <td>
+  FastAPI fullstack web-app for science calculations (formulat, plots, tasks and forum)
+  </td>
+   <td>https://github.com/michael7nightingale/FastAPI-Science</td>
+</tr>
  <tr>
   <td>Sciences</td></td>
    <td>FastAPI, Celery, Redis, PostgreSQL, asyncpg, Tortoise ORM, Vue.js, numpy, sympy, etc.</td>
@@ -54,6 +62,7 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
   </td>
    <td>https://github.com/michael7nightingale/FastAPI-Science</td>
 </tr>
+ <tr>
   <td>MomsPops</td>
    <td>Django, DRF, Celery, Redis, PostgreSQL, djangochannelsrestframework</td>
    <td>
@@ -74,14 +83,14 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
 
 ### 📕 &nbsp;**Libraries**
 <table>
-<tr><th>Name (usage)</th>
-<th>Stack</th>
-<th>Descriptioin</th>
-<th>Repository</th>
- <th>PyPi</th>
+<tr>
+ <th>Name (usage)</th>
+ <th>Stack</th>
+ <th>Descriptioin</th>
+ <th>Repository</th>
+  <th>PyPi</th>
 </tr>
 <tr>
- <tr>
   <td>fastapi_authtools</td></td>
    <td>FastAPI, Starletter, python-jose, pytest</td>
    <td>
@@ -90,6 +99,7 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
    <td>https://github.com/michael7nightingale/fastapi_authtools</td>
  <td>https://pypi.org/project/fastapi-authtools/</td>
 </tr>
+<tr> 
   <td>spicy</td>
    <td>Python, re</td>
    <td>
@@ -102,13 +112,37 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
 
 ### 📕 &nbsp;**Developed not so long ago**
 <table>
-<tr><th>Name (usage)</th>
-<th>Stack</th>
-<th>Descriptioin</th>
-<th>Link</th>
-</tr>
 <tr>
+ <th>Name (usage)</th>
+ <th>Stack</th>
+ <th>Descriptioin</th>
+ <th>Link</th>
+</tr>
  <tr>
+  <td>Recursive Shop ORM</td></td>
+   <td>Django, DRF, Postgres, raw SQL</td>
+   <td>
+ E-Commerce DRF recursive ORM handbook
+  </td>
+   <td>https://github.com/michael7nightingale/recursiveDjangoShop</td>
+ </tr>
+ <tr>
+  <td>Antique Site Parser</td>
+   <td>asyncio, aiohttp, Beautiful Soup</td>
+   <td>
+ Commerical parser of https://antikskupka.ru/.
+  </td>
+   <td>https://github.com/michael7nightingale/Antique-Site-Parser</td>
+ </tr>
+ <tr>
+  <td>ASP.NET Task Tracker</td>
+   <td>C#, .NET, ASP.NET MCV, Entity Framework</td>
+   <td>
+ Commerical parser of https://antikskupka.ru/.
+  </td>
+   <td>https://github.com/michael7nightingale/Antique-Site-Parser</td>
+ </tr>
+<tr>
   <td>AI English</td></td>
    <td>Django, DRF, OpenAI, channels, redis.</td>
    <td>
@@ -116,6 +150,7 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
   </td>
    <td>https://github.com/michael7nightingale/FastAPI-Science</td>
 </tr>
+<tr>
   <td>Document-TTS-Reader-FastAPI</td>
    <td>FastAPI, MongoDB, gtts</td>
    <td>
