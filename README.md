@@ -127,6 +127,14 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
  <th>Link</th>
 </tr>
  <tr>
+  <td>Restaurant Application</td>
+   <td>Litestar Framework, Piccolo ORM, Piccolo Admin, html</td>
+   <td>
+    Web app for restaurant using Litestart 2 framework and Piccolo ORM.
+  </td>
+   <td>https://github.com/michael7nightingale/litestar-restaurant</td>
+</tr>
+ <tr>
   <td>MomsPops</td>
    <td>Django, DRF, Celery, Redis, PostgreSQL, djangochannelsrestframework</td>
    <td>
