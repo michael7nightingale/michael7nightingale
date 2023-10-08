@@ -29,6 +29,7 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
  - `Algorithms and data-struictures`;
 
 &nbsp;**Basic skills (worked with ones a little)**
+ - `C#`, `ASP.NET MVC`;
  - `Vue.js`;
  - `Pony ORM`;
  - `MongoDB`;
