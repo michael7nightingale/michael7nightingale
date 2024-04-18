@@ -13,19 +13,19 @@ My name is Michael Nightingale, and here you can watch my projects and practices
 I'm a Python Junior Developer with a year of practice behind. My main branch of work is `Web-development` on Django, FastAPI and Flask. I love to build something interesting and fast). I study at physics and mathematics Middle-study section. My main sunjects on programming now are backend, algorithms and data-structures, applcation architecture and multi-task programming. I study programming (Python, CS) on books, lectures and pet-projects. Some of them you can see further on my GitHub repositories.
 
 &nbsp;**Professional skills**
- - `Python`;
+ - `Python` (latest versions);
  - `OOP`;
  - `FastAPI`;
+ - `ClickHouse`, `PostgreSQL`;
  - `Django`, `DRF`;
  - `Litestar`;
  - `SQLAlchemy`, `Tortoise ORM`, `Django ORM`, `Piccolo ORM`;
- - `Redis`, `Celery`, `Flower`;
+ - `Kafka`, `Redis`, `Celery`;
  - `Asyncio`, `multithreading` and `multiprocessing` programming; 
  - `API` and `RESTful`;
  - `Flask`;
- - `bs4`, `requests`, `socket`, `asyncio`, `pydantic`, `sqlalchemy`, `aiohttp`, `selenium`;
+ - `bs4`, `requests`, `celery`, `aiokafka`, `socket`, `asyncio`, `pydantic`, `sqlalchemy`, `aiohttp`, `selenium`;
  - `PyQt6`;
- - `SQL`, `PostgreSQL`;
  - `Algorithms and data-struictures`;
 
 &nbsp;**Basic skills (worked with ones a little)**
@@ -33,7 +33,7 @@ I'm a Python Junior Developer with a year of practice behind. My main branch of 
  - `Vue.js`;
  - `Pony ORM`;
  - `MongoDB`;
- - Telegram bots on `aiogram` and `telebot`;
+ - Telegram bots built with `aiogram`;
  - Data analisys and mathematics (NumPy, Matplotlib, Pandas, Kearas, SymPy);
  - Frontend development (JavaScript, HTML, CSS);
  - Reading other languages code;
